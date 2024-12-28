@@ -26,7 +26,7 @@ Este es un proyecto de clonación de **Google Translate** basado en el curso de 
 - **Vite**: Herramienta de construcción rápida para el proyecto.
 - **React-Bootstrap**: Librería de componentes UI basada en Bootstrap para facilitar el desarrollo de la interfaz.
 - **Axios**: Cliente HTTP para manejar las solicitudes a la API de traducción.
-- **OpenAI API**: Utilizado para realizar las traducciones (o la API de traducción que definas en el archivo `.env`).
+- **Integración con API**: Utilizado para realizar las traducciones.
 - **Biome**: Linter configurado para mantener el código limpio y consistente.
 - **Vitest** (futuro): Planes para agregar testing en el futuro.
 
@@ -65,7 +65,7 @@ Este es un proyecto de clonación de **Google Translate** basado en el curso de 
 
 ## Desafíos y Aprendizaje
 
-- Este es mi primer proyecto usando TypeScript. Durante el proceso, aprendí a trabajar con tipos, interfaces y la integración de la API de OpenAI.
+- Este es mi primer proyecto usando TypeScript. Durante el proceso, aprendí a trabajar con tipos, interfaces y la integración con una API de traducción.
 - Profundicé en el uso de reducers y custom hooks para manejar el estado de manera eficiente.
 - La gestión de los tipos en TypeScript fue un desafío que me permitió afianzar mis conocimientos sobre este lenguaje.
 
