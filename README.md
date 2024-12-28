@@ -35,23 +35,27 @@ Este es un proyecto de clonación de **Google Translate** basado en el curso de 
 1. Clona este repositorio:
 
    ```bash
-   git clone https://github.com/tu-usuario/google-translate-clon.git
-   cd google-translate-clon
+    git clone https://github.com/tu-usuario/google-translate-clon.git
+    cd google-translate-clon
+  ```
 
 2. Instala las dependencias
 
   ```bash
-  npm install
+    npm install
+  ```
 
 3. Crea un archivo .env en la raíz del proyecto con la siguiente variable de entorno:
 
   ```bash
-  VITE_TRANSLATE_API_URL=<url_de_tu_api_de_traduccion>
+    VITE_TRANSLATE_API_URL=<url_de_tu_api_de_traduccion>
+  ```
 
 4. Ejecuta el proyecto en modo desarrollo:
 
   ```bash
-  npm run dev
+    npm run dev
+  ```
 
 ## Futuro
 
