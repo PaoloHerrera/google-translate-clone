@@ -21,7 +21,7 @@ Este es un proyecto de clonación de **Google Translate** basado en el curso de 
 
 ## Tecnologías Usadas
 
-- **React**: Framework principal para la construcción de la interfaz de usuario.
+- **React**: Librería principal para la construcción de la interfaz de usuario.
 - **TypeScript**: Para asegurar la seguridad de tipos y mejorar la calidad del código.
 - **Vite**: Herramienta de construcción rápida para el proyecto.
 - **React-Bootstrap**: Librería de componentes UI basada en Bootstrap para facilitar el desarrollo de la interfaz.
@@ -35,7 +35,7 @@ Este es un proyecto de clonación de **Google Translate** basado en el curso de 
 1. Clona este repositorio:
 
   ```bash
-  git clone https://github.com/tu-usuario/google-translate-clon.git
+  git clone https://github.com/PaoloHerrera/google-translate-clon.git
   cd google-translate-clon
   ```
 
